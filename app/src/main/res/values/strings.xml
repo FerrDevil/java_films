@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">films</string>
+    <string name="showList">показать список</string>
+    <string-array name="filmGenre">
+        <item>Комедия</item>
+        <item>Мелодрама</item>
+        <item>Боевик</item>
+        <item>Детектив</item>
+        <item>Приключения</item>
+    </string-array>
+    <string-array name="whose">
+        <item>Отечественное</item>
+        <item>Зарубежное</item>
+    </string-array>
+</resources>
